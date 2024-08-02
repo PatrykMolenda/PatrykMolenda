@@ -27,7 +27,7 @@
 
 ###
 
-<img align="right" height="150" src="https://cdn.britannica.com/70/234870-050-D4D024BB/Orange-colored-cat-yawns-displaying-teeth.jpg"  />
+<img align="right" height="150" src="https://i.imgur.com/wDFGRFz.png"  />
 
 ###
 
