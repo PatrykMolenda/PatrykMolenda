@@ -33,7 +33,7 @@
 
 ###
 
-<img align="right" height="375" src="https://i.imgur.com/wDFGRFz.png"  />
+<img align="right" height="200" src="https://i.imgur.com/wDFGRFz.png" />
 
 ###
 
