@@ -2,7 +2,7 @@
   <img src="banner_github.png"  />
 </div>
 <p align="center">
-  <a href="https://www.linkedin.com/in/patryk-molenda-864340246/" target="_blank">
+  <a href="https://www.linkedin.com/in/patryk-molenda" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://stackoverflow.com/users/20071902/patrykmolenda" target="_blank">
